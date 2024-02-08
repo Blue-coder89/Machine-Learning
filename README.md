@@ -1,1 +1,1 @@
-Some good algorithms about machine learning.
+Implemented algorithms for practice
